@@ -198,3 +198,6 @@ This repository serves as the official landing page for ACG Player. The software
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ACG Player today!**
+
+---
+**Last updated:** 2026-11-06 21:24:55 UTC
